@@ -70,7 +70,7 @@ button:focus {
   top: 0;
   text-align: center;
   border-radius: 50%;
-  padding-top: 30%;
+  padding-top: 25%;
   transform: perspective(400px) rotateX(-90deg);
   transform-origin: center top 0;
   transition: all 0.5s ease 0s;
@@ -123,6 +123,7 @@ button:focus {
   transition: all 0.5s ease 0s;
   position: relative;
 }
+
 
 .services-item .social .cl_li a:hover, .our-team.active .social .cl_li a{
   border-radius: 50%;
